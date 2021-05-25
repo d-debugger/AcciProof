@@ -104,10 +104,21 @@
 
 # How to run ?
 
-     * First you should have all the mentioned libraries installed and if some libraries are still missing then you can go to Pypi.org to install them.
+     * First you should have all the mentioned libraries installed and if some libraries
+     are still missing then you can go to Pypi.org to install them.
 
      * You should have an account on TWILIO so that you can use there messaging services.
 
-     * You have to register your friend and relatives phone numbers in driver_info.json if you are the driver.
+     * You have to register your friend and relatives phone numbers in driver_info.json
+     if you are the driver.
 
-     * We have just added few hospitals of Delhi NCR and Mumbai in hub_coords.json therefore you can add hospital according to your location.
+     * We have just added few hospitals of Delhi NCR and Mumbai in hub_coords.json therefore
+     you can add hospital according to your location.
+     
+     * drowziness.py is the final file that to be executed to get the video frame it will 
+     alert you if you're feeling drowsy or using phone , you can inform relatives , friends
+     and nearest hospital about the accident by just pressing the key 'a' from the keyboard. 
+     
+     * To show the working we have invoked the message feature by pressing the key 'a' from
+     the keyword but in real life it will be invoke using some hardware in the vehicle
+     eg. something like an IOT device.
