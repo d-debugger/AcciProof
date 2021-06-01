@@ -1,4 +1,4 @@
-# AcciProof - The Accident Alert System
+# AcciProof - The Accident Alert Tool
 
 # Problem Description :-
 
